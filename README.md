@@ -11,7 +11,7 @@ STEPS
 
 
 RESULT 
-  OUTPUT
+	OUTPUT
 Reading with fast_obj
 Took 0.04 secs
 Reading with tiny_obj_loader
